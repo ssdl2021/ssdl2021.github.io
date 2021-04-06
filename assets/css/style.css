@@ -146,7 +146,6 @@ h3 {
     margin: 0;
 }
 h4,
-
 h1 {
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
@@ -171,6 +170,14 @@ h3 {
     font-weight: 400;
 }
 h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.286rem;
+    line-height: 2rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+}
+.hh{
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-size: 1.286rem;
