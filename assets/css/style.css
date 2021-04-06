@@ -1148,6 +1148,7 @@ button.btn-md:hover {
 
 .l1{
     font-size: 20px;
+    border:1px solid transparent;
 }
 .l2{
     font-size: 20px;
