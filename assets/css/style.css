@@ -144,6 +144,10 @@ h2,
 h3 {
     font-weight: 300;
     margin: 0;
+}
+left-h3{
+    font-weight: 300;
+    margin: 0;
     text-align: left;
 }
 h4,
@@ -1149,6 +1153,7 @@ button.btn-md:hover {
 
 .l1{
     font-size: 20px;
+    text-align: left;
 }
 .l2{
     font-size: 20px;
