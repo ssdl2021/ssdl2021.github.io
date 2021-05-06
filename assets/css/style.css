@@ -177,6 +177,15 @@ h4 {
     margin-bottom: 1rem;
     text-transform: uppercase;
 }
+h7 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.286rem;
+    line-height: 2rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    text-decoration: line-through;
+}
 .hh{
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
